@@ -1,0 +1,38 @@
+[[libGLCD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "421e043bab28938d83950dd0bd3bc9aa5bb24bed"
+libc = "glibc"
+os = "linux"
+
+    [[libGLCD.download]]
+    sha256 = "b3556797653f34362bf5c826dabc6b5b8493be48e82454797bfb352efbb65538"
+    url = "https://github.com/dprossel/libGLCD_jll.jl/releases/download/libGLCD-v1.0.0+0/libGLCD.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[libGLCD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4981cd702077ad6b68d041dc420119101abd2f90"
+libc = "glibc"
+os = "linux"
+
+    [[libGLCD.download]]
+    sha256 = "a99a6b81713d7ce28b27e702702fe0d188107c5e839dac9c331ccc8e761b6856"
+    url = "https://github.com/dprossel/libGLCD_jll.jl/releases/download/libGLCD-v1.0.0+0/libGLCD.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[libGLCD]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56889a82ee8d6d49478de9ed85fa560703e1b161"
+os = "windows"
+
+    [[libGLCD.download]]
+    sha256 = "c945c6b22748aebd5aaeff1f4587f268450bbe7f6bbf59a43edc4b6652b0f366"
+    url = "https://github.com/dprossel/libGLCD_jll.jl/releases/download/libGLCD-v1.0.0+0/libGLCD.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libGLCD]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f1ff034c8dcd10cef017cdd20bd04483dc75c85"
+os = "windows"
+
+    [[libGLCD.download]]
+    sha256 = "2750bf26d9b947a965917a8d84a34dc038bde6bdefeee474326ae0984368c6c0"
+    url = "https://github.com/dprossel/libGLCD_jll.jl/releases/download/libGLCD-v1.0.0+0/libGLCD.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
